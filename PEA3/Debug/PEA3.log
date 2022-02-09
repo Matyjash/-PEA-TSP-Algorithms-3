@@ -1,0 +1,21 @@
+﻿  File.cpp
+  Genetic.cpp
+C:\Users\lengo\source\repos\PEA3\PEA3\Genetic.cpp(9,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\lengo\source\repos\PEA3\PEA3\Genetic.cpp(18,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\lengo\source\repos\PEA3\PEA3\Genetic.cpp(26,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\lengo\source\repos\PEA3\PEA3\Genetic.cpp(189,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\lengo\source\repos\PEA3\PEA3\Genetic.cpp(215,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\lengo\source\repos\PEA3\PEA3\Genetic.cpp(308,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\lengo\source\repos\PEA3\PEA3\Genetic.cpp(369,11): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\lengo\source\repos\PEA3\PEA3\Genetic.cpp(386,11): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\lengo\source\repos\PEA3\PEA3\Genetic.cpp(408,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Graph.cpp
+  PEA_3.cpp
+C:\Users\lengo\source\repos\PEA3\PEA3\PEA_3.cpp(15,28): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\lengo\source\repos\PEA3\PEA3\PEA_3.cpp(17,28): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\lengo\source\repos\PEA3\PEA3\PEA_3.cpp(126,42): warning C4305: "=": obcięcie z "double" do "float"
+C:\Users\lengo\source\repos\PEA3\PEA3\PEA_3.cpp(142,42): warning C4305: "=": obcięcie z "double" do "float"
+  Random.cpp
+  Generowanie kodu...
+C:\Users\lengo\source\repos\PEA3\PEA3\Genetic.cpp(111): warning C4715: "Genetic::tryToMutate”: niewszystkie ścieżki kodu zwracają wartość
+  PEA3.vcxproj -> C:\Users\lengo\source\repos\PEA3\Debug\PEA3.exe
